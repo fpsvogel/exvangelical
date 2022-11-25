@@ -4,12 +4,20 @@
 Hi there! I was raised in a conservative Christian context. In recent years, in the process of becoming an adult and making sense of the world, I've realized that many of the old answers just don't work. So I'm growing and learning, using this space to save my favorite books and other resources.
 
 <!-- omit in toc -->
-## Table of contents
+### Table of contents
+- [Communities](#communities)
 - [Spiritual practices](#spiritual-practices)
 - [Biblical interpretation](#biblical-interpretation)
 - [Science and cosmology](#science-and-cosmology)
 - [Gender and sexuality](#gender-and-sexuality)
 - [Miscellaneous](#miscellaneous)
+
+## Communities
+
+- [/r/OpenChristian](https://www.reddit.com/r/OpenChristian/). Be sure to look through their [FAQ and Resources](https://www.reddit.com/r/OpenChristian/comments/ulfbux/faq_and_resources_please_read_before_you_post/), which includes links to related communities not listed here.
+- [/r/Exvangelical](https://www.reddit.com/r/Exvangelical)
+- [/r/AskBibleScholars](https://www.reddit.com/r/AskBibleScholars/)
+- [/r/AcademicBiblical](https://www.reddit.com/r/AcademicBiblical/)
 
 ## Spiritual practices
 
