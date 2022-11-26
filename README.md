@@ -15,7 +15,6 @@ You can find some of these for free at the [Internet Archive](https://archive.or
 - [Biblical interpretation](#biblical-interpretation)
 - [Science and cosmology](#science-and-cosmology)
 - [Gender and sexuality](#gender-and-sexuality)
-- [Miscellaneous](#miscellaneous)
 
 ## Communities
 
@@ -36,6 +35,7 @@ How did the Bible come to be? How can we read it more skillfully and more fruitf
 
 - 📕[Adam Hamilton – *Making Sense of the Bible: Rediscovering the Power of Scripture Today*](https://www.goodreads.com/book/show/20820158). An accessible introduction to reading the Bible in context.
 - 📕[Greg Boyd – *Inspired Imperfection: How the Bible's Problems Enhance Its Divine Authority*](https://www.goodreads.com/book/show/44541760). Argues that the Bible is ugly and shocking for the same reasons that Jesus being crucified was ugly and shocking, and in the end the Bible's warts make it all the more beautiful.
+- 🔊[Pete Enns & Jared Byas – *The Bible for Normal People* podcast](https://peteenns.com/podcast). Many episodes are a short exploration of a different approach to the Bible. My favorites are #160 [The Risk of an "Errant" Bible](https://peteenns.com/episode-160-the-risk-of-an-errant-bible/), #172 [A Whole Different Way of Reading Genesis](https://peteenns.com/episode-172-pete-enns-a-whole-different-way-of-reading-genesis/), and #207 [Respecting the Bible for What It Is (and Isn't)](https://peteenns.com/episode-207-pete-enns-jared-byas-respecting-the-bible-for-what-it-is-and-isnt/).
 
 ## Science and cosmology
 
@@ -63,7 +63,3 @@ The Bible is widely believed to place women in a subordinate role and condemn ga
 - 📕[Kathy Baldock – *Walking the Bridgeless Canyon: Repairing the Breach Between the Church and the LGBT Community*](https://www.goodreads.com/book/show/23367214). Delves deeper into history than most other books, answering questions like "Where did our modern idea of homosexuality come from?"
 - 📕[James Brownson – *Bible, Gender, Sexuality: Reframing the Church's Debate on Same-Sex Relationships*](https://www.goodreads.com/book/show/18912131). A deeper examination of the oft-cited biblical texts.
 - 📕[Karen Keen – *Scripture, Ethics, and the Possibility of Same-Sex Relationships*](https://www.goodreads.com/book/show/56880984). If you're still uncomfortable with turning from traditional interpretations, this book might be for you. It shows that biblical commands have always been interpreted and re-interpreted with discernment for human need, from within the Old Testament, to Jesus, to Paul, to the pastoral epistles, and finally throughout church history.
-
-## Miscellaneous
-
-- 🔊[Pete Enns & Jared Byas – *The Bible for Normal People* podcast](https://peteenns.com/podcast). Lots of explorations of new approaches to the Bible, a feast for your soul once you've embraced that mindset. My favorite episodes are #160 [The Risk of an "Errant" Bible](https://peteenns.com/episode-160-the-risk-of-an-errant-bible/), #172 [A Whole Different Way of Reading Genesis](https://peteenns.com/episode-172-pete-enns-a-whole-different-way-of-reading-genesis/), and #207 [Respecting the Bible for What It Is (and Isn't)](https://peteenns.com/episode-207-pete-enns-jared-byas-respecting-the-bible-for-what-it-is-and-isnt/).
