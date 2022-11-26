@@ -14,7 +14,8 @@ You can find some of the books for free at the [Internet Archive](https://archiv
 - [Spiritual practices](#spiritual-practices)
 - [Biblical interpretation](#biblical-interpretation)
 - [Science and cosmology](#science-and-cosmology)
-- [Gender and sexuality](#gender-and-sexuality)
+- [Women and gender roles](#women-and-gender-roles)
+- [LGBT people](#lgbt-people)
 
 ## Communities
 
@@ -51,11 +52,16 @@ Many Christians think that the truth of the Bible depends on a 6000-year-old Ear
   - Along the way, Boyd also sketches an alternative theodicy in which evil does not come from God. It's a great antidote for those classic Christian conversation-enders, "God has a plan" and "God is in control". Oh thanks, it's so reassuring to know that *God* is the one behind the evil I'm suffering.
   - [Tolkien's creation account in the Silmarillion](https://archive.org/details/TheSilmarillionIllustratedJ.R.R.TolkienTedNasmith/page/n25/mode/2up?view=theater) beautifully tells a very similar theodicy.
 
-## Gender and sexuality
+## Women and gender roles
 
-The Bible is widely believed to place women in a subordinate role and condemn gay people. But does it really?
+Some people use the Bible to justify placing women in subordinate roles. But just as with young-earth creationism, this is only one possible interpretation. Where did it come from?
 
 - 📕[Beth Allison Barr – *The Making of Biblical Womanhood: How the Subjugation of Women Became Gospel Truth*](https://www.goodreads.com/book/show/54233271). "Biblical womanhood" is in reality not biblical, but a modern twist on the age-old ways of the world.
+
+## LGBT people
+
+The Bible is widely believed to condemn gay marriage. But does it really?
+
 - 🎞️[For They Know Not What They Do](https://www.fortheyknow.org)
 - 🎞️[Justin Lee - "Through My Eyes"](https://youtu.be/EVswuw3bJns)
 - 📕[Andrew Marin – *Us versus Us: The Untold Story of Religion and the LGBT Community*](https://www.goodreads.com/book/show/28084898). Did you know 86% of LGBT people were raised in church? And of the 54% that left, 76% are open to returning. (Compare that to the only 9% of ex-church-goers in the general U.S. population who are open to returning.)
