@@ -4,6 +4,11 @@
 Hi there! I was raised in a conservative Christian context. In recent years, in the process of becoming an adult and making sense of the world, I've realized that many of the old answers just don't work. So I'm growing and learning, using this space to save my favorite books and other resources.
 
 <!-- omit in toc -->
+### Tips on finding free books
+
+You can find some of these for free at the [Internet Archive](https://archive.org), and through your local library you may be able to access [Hoopla](https://www.hoopladigital.com) for ebooks and audiobooks, and [Kanopy](https://www.kanopy.com) for documentaries. The [Library Extension](https://www.libraryextension.com) can make finding books for free even easier.
+
+<!-- omit in toc -->
 ### Table of contents
 - [Communities](#communities)
 - [Spiritual practices](#spiritual-practices)
@@ -23,7 +28,7 @@ Hi there! I was raised in a conservative Christian context. In recent years, in 
 
 After our childhood faith is no more, how can we maintain a healthy spirituality?
 
-- 📕[Mike McHargue - Finding God in the Waves: How I Lost My Faith and Found It Again Through Science](https://www.goodreads.com/book/show/28363993). Later in the book Mike explains how, despite the many doubts he still has about God, spiritual practices still enrich his life. Which makes me wonder: if we all approached religion in a more practice-oriented way (not just belief-centric), maybe our dialogue in and out of church would be healthier.
+- 📕[Mike McHargue - *Finding God in the Waves: How I Lost My Faith and Found It Again Through Science*](https://www.goodreads.com/book/show/28363993). Later in the book Mike explains how, despite the many doubts he still has about God, spiritual practices still enrich his life. Which makes me wonder: if we all approached religion in a more practice-oriented way (not just belief-centric), maybe our dialogue in and out of church would be healthier.
 
 ## Biblical interpretation
 
@@ -37,8 +42,8 @@ How did the Bible come to be? How can we read it more skillfully and more fruitf
 Many Christians think that the truth of the Bible depends on a 6000-year-old Earth, which means denying mainstream science. Science denial is one of the most oft-cited reasons that young people give for leaving the church: a 2011 survey found that 25% of young ex-churchgoers felt that "Christianity is anti-science." And doubtless this same perception keeps many others from ever stepping foot in a church.
 
 - 📕[Aaron Yilmaz – *Deliver Us From Evolution?: A Christian Biologist's In-Depth Look at the Evidence Reveals a Surprising Harmony Between Science and God*](https://www.goodreads.com/book/isbn?isbn=B071CXGXM2). Written by a former young-earth creationist, it addresses creationist arguments head-on.
-  - If you get bogged down in that, another good starting point is 📕[Denis Lamoureux – *I Love Jesus & I Accept Evolution*](https://www.goodreads.com/book/show/6553824-i-love-jesus-i-accept-evolution), which you can read for free [at the Internet Archive](https://archive.org/details/ilovejesusiaccep0000lamo). Or if you prefer a mix of readings and videos, Dr. Lamoureux also made 🎞️[a free online course](https://www.coursera.org/learn/science-and-religion-101).
-  - You can watch a nice summary in the video ["What is the evidence for evolution?"](https://youtu.be/lIEoO5KdPvg)
+  - If you get bogged down in that, another good starting point is 📕[Denis Lamoureux – *I Love Jesus & I Accept Evolution*](https://www.goodreads.com/book/show/6553824-i-love-jesus-i-accept-evolution). Or if you prefer a mix of readings and videos, Dr. Lamoureux also made 🌐[a free online course](https://www.coursera.org/learn/science-and-religion-101).
+  - You can watch a nice summary in the video 🎞️["What is the evidence for evolution?"](https://youtu.be/lIEoO5KdPvg)
 - 📕[Robin Parry – *The Biblical Cosmos: A Pilgrim's Guide to the Weird and Wonderful World of the Bible*](https://www.goodreads.com/book/isbn?isbn=B00SU6CG1W). An investigation of how ancient Israelites viewed the world around them, which (spoiler alert) is very different from how we modern people see the world. The concluding chapters are fascinating, on how we modern people might fruitfully use this ancient view of the world.
 - 🎞️[InspiringPhilosophy – videos about evolution and faith](https://inspiringphilosophy.org/evolution-and-genesis). Also his video 🎞️["The Origins of Young Earth Creationism"](https://youtu.be/RLcNTAi0Cw4).
 - 📕[John Walton – *The Lost World of Genesis One: Ancient Cosmology and the Origins Debate*](https://www.goodreads.com/book/isbn?isbn=B003VM8QK0). If you're wondering how Genesis 1 can possibly fit with a very old universe, here's an exploration of how ancient Israelites understood creation.
