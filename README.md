@@ -67,4 +67,5 @@ The Bible is widely believed to condemn gay marriage. But does it really?
 
 ## Racism
 
-- 📕[Jamar Tisby – The Color of Compromise](https://www.goodreads.com/en/book/show/38915761) on how American Christians, far from fighting against racism, have on the whole encouraged it and participated in it.
+- 📕[Jamar Tisby – The Color of Compromise: The Truth about the American Church’s Complicity in Racism](https://www.goodreads.com/en/book/show/38915761). Shows how American Christians, far from fighting against racism, have on the whole encouraged it and participated in it.
+- 📕[Heather McGee – The Sum of Us: What Racism Costs Everyone and How We Can Prosper Together](https://www.goodreads.com/book/show/53231851). Have you ever wondered why conservative whites oppose social programs that would benefit them more than anyone? It's the rich and powerful convince them that non-whites are getting unfair advantages (welfare queens, affirmative action), and that life is a zero-sum game where any benefit to (lazy) black and brown people comes at the expense of (hardworking) white people. Or to put it another way: no matter how bad the economic situation of whites, they can continue to feel like they're on top as long as black and brown people have it worse.
