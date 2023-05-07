@@ -28,7 +28,7 @@ You can find some of the books for free at the [Internet Archive](https://archiv
 
 After our childhood faith is no more, how can we maintain a healthy spirituality?
 
-- 📕[Mike McHargue - *Finding God in the Waves: How I Lost My Faith and Found It Again Through Science*](https://www.goodreads.com/book/show/28363993). Later in the book Mike explains how, despite the many doubts he still has about God, spiritual practices still enrich his life. Which makes me wonder: if we all approached religion in a more practice-oriented way (not just belief-centric), maybe our dialogue in and out of church would be healthier.
+- 📕[Mike McHargue – *Finding God in the Waves: How I Lost My Faith and Found It Again Through Science*](https://www.goodreads.com/book/show/28363993). Later in the book Mike explains how, despite the many doubts he still has about God, spiritual practices still enrich his life. Which makes me wonder: if we all approached religion in a more practice-oriented way (not just belief-centric), maybe our dialogue in and out of church would be healthier.
 
 ## Biblical interpretation
 
@@ -57,16 +57,16 @@ Many Christians think that the truth of the Bible depends on a 6000-year-old Ear
 Some people use the Bible to justify placing women in subordinate roles. But just as with young-earth creationism, this is only one possible interpretation. Where did it come from?
 
 - 📕[Beth Allison Barr – *The Making of Biblical Womanhood: How the Subjugation of Women Became Gospel Truth*](https://www.goodreads.com/book/show/54233271). "Biblical womanhood" is in reality not biblical, but a modern twist on the age-old ways of the world.
-- 📕[Paul and Gender: Reclaiming the Apostle's Vision for Men and Women in Christ](https://www.goodreads.com/book/show/28268179). By paying attention to the *context* of Paul's remarks men and women, they take on a whole new meaning.
+- 📕[Cynthia Westfall – Paul and Gender: Reclaiming the Apostle's Vision for Men and Women in Christ](https://www.goodreads.com/book/show/28268179). By paying attention to the *context* of Paul's remarks men and women, they take on a whole new meaning.
 
 ## LGBT people
 
 The Bible is widely believed to condemn gay marriage. But does it really?
 
 - 🎞️[For They Know Not What They Do](https://www.fortheyknow.org)
-- 🎞️[Justin Lee - "Through My Eyes"](https://youtu.be/EVswuw3bJns)
+- 🎞️[Justin Lee – "Through My Eyes"](https://youtu.be/EVswuw3bJns)
 - 📕[Andrew Marin – *Us versus Us: The Untold Story of Religion and the LGBT Community*](https://www.goodreads.com/book/show/28084898). Did you know 86% of LGBT people were raised in church? And of the 54% that left, 76% are open to returning. (Compare that to the only 9% of ex-church-goers in the general U.S. population who are open to returning.)
-- 📕[Ken Wilson - *A Letter to My Congregation: An Evangelical Pastor's Path to Embracing People Who Are Gay, Lesbian, Bisexual, and Transgender in the Company of Jesus*](https://www.goodreads.com/book/show/20750953). The part addressing the biblical texts is especially helpful.
+- 📕[Ken Wilson – *A Letter to My Congregation: An Evangelical Pastor's Path to Embracing People Who Are Gay, Lesbian, Bisexual, and Transgender in the Company of Jesus*](https://www.goodreads.com/book/show/20750953). The part addressing the biblical texts is especially helpful.
   - If you're not convinced that "homosexuality" in the Greco-Roman world was categorically different than what we call by that name today, in that it was violent and exploitative, then read the third chapter of 📕[Sarah Ruden – Paul Among the People: The Apostle Reinterpreted and Reimagined in His Own Time](https://www.goodreads.com/book/show/7738312). Here's [a preview of the first few pages](https://www.google.com/books/edition/Paul_Among_the_People/ibjVCQAAQBAJ?gbpv=1&pg=PA45).
 - 📕[Mark Wingfield – *Why Churches Need to Talk about Sexuality: Lessons Learned from Hard Conversations about Sex, Gender, Identity, and the Bible*](https://www.goodreads.com/book/show/49053913). The story of how one church stopped avoiding the question.
 - 📕[Kathy Baldock – *Walking the Bridgeless Canyon: Repairing the Breach Between the Church and the LGBT Community*](https://www.goodreads.com/book/show/23367214). Delves deeper into history than most other books, answering questions like "Where did our modern idea of homosexuality come from?"
