@@ -64,3 +64,7 @@ The Bible is widely believed to condemn gay marriage. But does it really?
 - 📕[Kathy Baldock – *Walking the Bridgeless Canyon: Repairing the Breach Between the Church and the LGBT Community*](https://www.goodreads.com/book/show/23367214). Delves deeper into history than most other books, answering questions like "Where did our modern idea of homosexuality come from?"
 - 📕[James Brownson – *Bible, Gender, Sexuality: Reframing the Church's Debate on Same-Sex Relationships*](https://www.goodreads.com/book/show/18912131). A deeper examination of the oft-cited biblical texts.
 - 📕[Karen Keen – *Scripture, Ethics, and the Possibility of Same-Sex Relationships*](https://www.goodreads.com/book/show/56880984). If you're still uncomfortable going against traditional interpretations, this book might be for you. It shows that biblical commands have *always* been interpreted and re-interpreted with discernment for human need. Old Testament writers did it, Jesus did it, Paul and the other epistle writers did it, and it's been done throughout church history.
+
+## Racism
+
+- 📕[Jamar Tisby – The Color of Compromise](https://www.goodreads.com/en/book/show/38915761) on how American Christians, far from fighting against racism, have on the whole encouraged it and participated in it.
