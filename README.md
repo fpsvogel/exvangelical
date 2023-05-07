@@ -10,19 +10,11 @@ You can find some of the books for free at the [Internet Archive](https://archiv
 
 <!-- omit in toc -->
 ### Table of contents
-- [Communities](#communities)
 - [Spiritual practices](#spiritual-practices)
 - [Biblical interpretation](#biblical-interpretation)
 - [Science and cosmology](#science-and-cosmology)
 - [Women and gender roles](#women-and-gender-roles)
 - [LGBT people](#lgbt-people)
-
-## Communities
-
-- 🌐[/r/OpenChristian](https://www.reddit.com/r/OpenChristian/). Be sure to look through their [FAQ and Resources](https://www.reddit.com/r/OpenChristian/comments/ulfbux/faq_and_resources_please_read_before_you_post/) post, which includes links to related communities not listed here.
-- 🌐[/r/Exvangelical](https://www.reddit.com/r/Exvangelical)
-- 🌐[/r/AskBibleScholars](https://www.reddit.com/r/AskBibleScholars/)
-- 🌐[/r/AcademicBiblical](https://www.reddit.com/r/AcademicBiblical/)
 
 ## Spiritual practices
 
