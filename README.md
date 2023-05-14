@@ -14,7 +14,7 @@ You can find some of the books for free at the [Internet Archive](https://archiv
 - [Biblical interpretation](#biblical-interpretation)
 - [Science and cosmology](#science-and-cosmology)
 - [Women and gender roles](#women-and-gender-roles)
-- [LGBT people](#lgbt-people)
+- [LGBT inclusion](#lgbt-inclusion)
 - [Racism](#racism)
 
 ## Spiritual practices
@@ -52,7 +52,7 @@ Some people use the Bible to justify placing women in subordinate roles. But jus
 - 📕[Beth Allison Barr – *The Making of Biblical Womanhood: How the Subjugation of Women Became Gospel Truth*](https://www.goodreads.com/book/show/54233271). "Biblical womanhood" is in reality not biblical, but a modern twist on the age-old ways of the world.
 - 📕[Cynthia Westfall – Paul and Gender: Reclaiming the Apostle's Vision for Men and Women in Christ](https://www.goodreads.com/book/show/28268179). By paying attention to the *context* of Paul's remarks men and women, they take on a whole new meaning.
 
-## LGBT people
+## LGBT inclusion
 
 The Bible is widely believed to condemn gay marriage. But does it really?
 
@@ -67,6 +67,8 @@ The Bible is widely believed to condemn gay marriage. But does it really?
 - 📕[Karen Keen – *Scripture, Ethics, and the Possibility of Same-Sex Relationships*](https://www.goodreads.com/book/show/56880984). If you're still uncomfortable going against traditional interpretations, this book might be for you. It shows that biblical commands have *always* been interpreted and re-interpreted with discernment for human need. Old Testament writers did it, Jesus did it, Paul and the other epistle writers did it, and it's been done throughout church history.
 
 ## Racism
+
+I've often wondered, att different times and in different churches, *"Why is my church so white?"* The fact that I noticed at all may have been due to my childhood in Brazil, where it's more normal for people of different skin tones to mingle. But it's only now as an adult that I've set out to learn more in this area where my conservative upbringing failed me by avoiding race issues and skirting over the ugly history and the present reality.
 
 - 📕[Jamar Tisby – The Color of Compromise: The Truth about the American Church’s Complicity in Racism](https://www.goodreads.com/en/book/show/38915761). Shows how white American Christians, far from fighting against racism, have on the whole encouraged it and participated in it.
 - 🎞️[Eyes on the Prize: America's Civil Rights Movement](https://www.pbs.org/wgbh/americanexperience/films/eyesontheprize). A must if you didn't learn much about the civil rights movement in school.
