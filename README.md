@@ -15,6 +15,7 @@ You can find some of the books for free at the [Internet Archive](https://archiv
 - [Science and cosmology](#science-and-cosmology)
 - [Women and gender roles](#women-and-gender-roles)
 - [LGBT people](#lgbt-people)
+- [Racism](#racism)
 
 ## Spiritual practices
 
@@ -68,5 +69,7 @@ The Bible is widely believed to condemn gay marriage. But does it really?
 ## Racism
 
 - 📕[Jamar Tisby – The Color of Compromise: The Truth about the American Church’s Complicity in Racism](https://www.goodreads.com/en/book/show/38915761). Shows how white American Christians, far from fighting against racism, have on the whole encouraged it and participated in it.
+- 🎞️[Eyes on the Prize: America's Civil Rights Movement](https://www.pbs.org/wgbh/americanexperience/films/eyesontheprize). A must if you didn't learn much about the civil rights movement in school.
+- 📕[Michelle Alexander – The New Jim Crow: Mass Incarceration in the Age of Colorblindness](https://www.goodreads.com/book/show/6792458). A depressing read but probably the most important one on this list.
 - 📕[Heather McGee – The Sum of Us: What Racism Costs Everyone and How We Can Prosper Together](https://www.goodreads.com/book/show/53231851). Have you ever wondered why conservative whites oppose social programs that would benefit them more than anyone? It's the rich and powerful convince them that non-whites are getting unfair advantages (welfare queens, affirmative action), and that life is a zero-sum game where any benefit to (lazy) black and brown people comes at the expense of (hardworking) white people. Or to put it another way: no matter how bad the economic situation of whites, they can continue to feel like they're on top as long as black and brown people have it worse.
 - 📕[Clint Smith – How the Word Is Passed: A Reckoning with the History of Slavery Across America](https://www.goodreads.com/book/show/55643287)
