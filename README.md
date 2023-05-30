@@ -28,6 +28,7 @@ After our childhood faith is no more, how can we maintain a healthy spirituality
 How did the Bible come to be? How can we read it more skillfully and more fruitfully?
 
 - 📕[Adam Hamilton – *Making Sense of the Bible: Rediscovering the Power of Scripture Today*](https://www.goodreads.com/book/show/20820158)
+- 📕[Rachel Held Evans – *Inspired: Slaying Giants, Walking on Water, and Loving the Bible Again*](https://www.goodreads.com/book/show/36576151)
 - 📕[Greg Boyd – *Inspired Imperfection: How the Bible's Problems Enhance Its Divine Authority*](https://www.goodreads.com/book/show/44541760)
 - 🔊[Pete Enns & Jared Byas – *The Bible for Normal People* podcast](https://peteenns.com/podcast). Many episodes are a short exploration of a different approach to the Bible. My favorites are #160 [The Risk of an "Errant" Bible](https://peteenns.com/episode-160-the-risk-of-an-errant-bible/), #172 [A Whole Different Way of Reading Genesis](https://peteenns.com/episode-172-pete-enns-a-whole-different-way-of-reading-genesis/), and #207 [Respecting the Bible for What It Is (and Isn't)](https://peteenns.com/episode-207-pete-enns-jared-byas-respecting-the-bible-for-what-it-is-and-isnt/).
 
