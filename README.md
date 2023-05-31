@@ -70,7 +70,7 @@ The Bible is widely believed to condemn gay marriage. But does it really?
 
 ## Racism
 
-I've often wondered, att different times and in different churches, *"Why is my church so white?"* The fact that I noticed at all may have been due to my childhood in Brazil, where it's more normal for people of different skin tones to mingle. But it's only now as an adult that I've set out to learn more in this area where my conservative upbringing failed me by avoiding race issues and skirting over the ugly history and the present reality.
+I've often wondered, at different times and in different churches, *"Why is my church so white?"* The fact that I noticed at all may have been due to my childhood in Brazil, where it's more normal for people of different skin tones to mingle. But it's only now as an adult that I've set out to learn more in this area where my conservative upbringing failed me by avoiding race issues and skirting over the ugly history and the present reality.
 
 - 📕[Jamar Tisby – *The Color of Compromise: The Truth about the American Church’s Complicity in Racism*](https://www.goodreads.com/en/book/show/38915761). Shows how white American Christians, far from fighting against racism, have on the whole encouraged it and participated in it.
 - 📕[Derwin L. Gray – *How to Heal Our Racial Divide: What the Bible Says, and the First Christians Knew, about Racial Reconciliation*](https://www.goodreads.com/book/show/60454231). Skip it if you've already noticed the parallels between the early church situation and today's racial divisions.
