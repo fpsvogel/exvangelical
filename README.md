@@ -22,6 +22,7 @@ You can find some of the books for free at the [Internet Archive](https://archiv
 After our childhood faith is no more, how can we maintain a healthy spirituality?
 
 - 📕[Mike McHargue – *Finding God in the Waves: How I Lost My Faith and Found It Again Through Science*](https://www.goodreads.com/book/show/28363993). Later in the book Mike explains how, despite the many doubts he still has about God, spiritual practices still enrich his life. Which makes me wonder: if we all approached religion in a more practice-oriented way (not just belief-centric), maybe our dialogue in and out of church would be healthier.
+- 🔊[Thomas Moore – *A Personal Spirituality: Finding Your Own Way to a Meaningful Life*](https://www.goodreads.com/book/show/28922930). Includes lots of pointers on healthy and vibrant spirituality.
 
 ## Biblical interpretation
 
