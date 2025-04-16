@@ -6,7 +6,7 @@ Hi there! I was raised in a conservative Christian context. In recent years, in 
 <!-- omit in toc -->
 ### Tips on finding free books
 
-You can find some of the books for free at the [Internet Archive](https://archive.org), and through your local library you may be able to access [Hoopla](https://www.hoopladigital.com) for ebooks and audiobooks, and [Kanopy](https://www.kanopy.com) for documentaries. To find books for free more effortlessly, try the [Library Extension](https://www.libraryextension.com).
+You can find some of the books for free at the [Internet Archive](https://archive.org), and through your local library you may be able to access [Hoopla](https://www.hoopladigital.com) for ebooks and audiobooks, and [Kanopy](https://www.kanopy.com) for documentaries. [Library Extension](https://www.libraryextension.com) can help you find books across different libraries.
 
 <!-- omit in toc -->
 ### Table of contents
@@ -68,6 +68,7 @@ The Bible is widely believed to condemn gay marriage. But does it really?
 - 📕[Kathy Baldock – *Walking the Bridgeless Canyon: Repairing the Breach Between the Church and the LGBT Community*](https://www.goodreads.com/book/show/23367214). Delves deeper into history than most other books, answering questions like "Where did our modern idea of homosexuality come from?"
 - 📕[James Brownson – *Bible, Gender, Sexuality: Reframing the Church's Debate on Same-Sex Relationships*](https://www.goodreads.com/book/show/18912131). A deeper examination of the oft-cited biblical texts.
 - 📕[Karen Keen – *Scripture, Ethics, and the Possibility of Same-Sex Relationships*](https://www.goodreads.com/book/show/56880984). If you're still uncomfortable going against traditional interpretations, this book might be for you. It shows that biblical commands have *always* been interpreted and re-interpreted with discernment for human need. Old Testament writers did it, Jesus did it, Paul and the other epistle writers did it, and it's been done throughout church history.
+- 📕[Katie Hays – *For The Bible Tells Me So: the biblical-theological necessity of LGBTQ+ inclusion in the church*](https://www.goodreads.com/book/show/55984163). Short and sweet, a good review.
 
 ## Racism
 
