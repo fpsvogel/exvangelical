@@ -10,18 +10,13 @@ You can find some of the books for free at the [Internet Archive](https://archiv
 
 <!-- omit in toc -->
 ### Table of contents
-- [Memoir](#memoir)
-- [Biblical interpretation](#biblical-interpretation)
+- [Intro to biblical interpretation](#intro-to-biblical-interpretation)
 - [Science and cosmology](#science-and-cosmology)
 - [Women and gender roles](#women-and-gender-roles)
 - [LGBT inclusion](#lgbt-inclusion)
 - [Racism](#racism)
 
-## Memoir
-
-- 📕[Mike McHargue – *Finding God in the Waves: How I Lost My Faith and Found It Again Through Science*](https://www.goodreads.com/book/show/28363993)
-
-## Biblical interpretation
+## Intro to biblical interpretation
 
 - 📕[Adam Hamilton – *Making Sense of the Bible: Rediscovering the Power of Scripture Today*](https://www.goodreads.com/book/show/20820158)
 
