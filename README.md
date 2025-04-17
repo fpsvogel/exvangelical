@@ -51,6 +51,13 @@ You can find some of the books for free at the [Internet Archive](https://archiv
 
 - 📕[Terran Williams – *How God Sees Women: The End of Patriarchy*](https://www.goodreads.com/book/show/60123774)
 
+<details>
+<summary>More recommendations</summary>
+
+- 📕[Lynn Cohick – *Women in the World of the Earliest Christians: Illuminating Ancient Ways of Life*](https://www.goodreads.com/book/show/7036318)
+
+</details>
+
 ## LGBT inclusion
 
 - 📕[Andrew Marin – *Us versus Us: The Untold Story of Religion and the LGBT Community*](https://www.goodreads.com/book/show/28084898). Did you know 86% of LGBT people were raised in church? And of the 54% that left, 76% are open to returning. (Compare that to the only 9% of ex-church-goers in the general U.S. population who are open to returning.)
