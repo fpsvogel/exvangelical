@@ -51,9 +51,7 @@ Many Christians think that the truth of the Bible depends on a 6000-year-old Ear
 
 Some people use the Bible to justify placing women in subordinate roles. But just as with young-earth creationism, this is only one possible interpretation. Where did it come from?
 
-- 📕[Beth Allison Barr – *The Making of Biblical Womanhood: How the Subjugation of Women Became Gospel Truth*](https://www.goodreads.com/book/show/54233271). "Biblical womanhood" is in reality not biblical, but a modern twist on the age-old ways of the world.
-- 📄[Joseph A. P. Wilson – Recasting Paul as a Chauvinist within the Western Text-Type Manuscript Tradition: Implications for the Authorship Debate on 1 Corinthians 14.34-35](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1197&context=rel_fac) and [an interview with the author](https://www.youtube.com/watch?v=k3U0qSai4z8)
-- 📕[Cynthia Westfall – Paul and Gender: Reclaiming the Apostle's Vision for Men and Women in Christ](https://www.goodreads.com/book/show/28268179). By paying attention to the *context* of Paul's remarks men and women, they take on a whole new meaning.
+- 📕[Terran Williams – *How God Sees Women: The End of Patriarchy*](https://www.goodreads.com/book/show/60123774)
 
 ## LGBT inclusion
 
