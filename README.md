@@ -65,6 +65,7 @@ You can find some of the books for free at the [Internet Archive](https://archiv
 <details>
 <summary>More recommendations</summary>
 
+- 📄[Dale B. Martin – "Heterosexism and the Interpretation of Romans 1:18–32"](https://drive.google.com/file/d/1XAuUGWfR0BUwVkvY0Z1oxnHe7iyjCnzJ/view)
 - 🎞️[For They Know Not What They Do](https://www.fortheyknow.org)
 - 🎞️[Justin Lee – "Through My Eyes"](https://youtu.be/EVswuw3bJns)
 - 📕[Ken Wilson – *A Letter to My Congregation: An Evangelical Pastor's Path to Embracing People Who Are Gay, Lesbian, Bisexual, and Transgender in the Company of Jesus*](https://www.goodreads.com/book/show/20750953). The part addressing the biblical texts is especially helpful.
